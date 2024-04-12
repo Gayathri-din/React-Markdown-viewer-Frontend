@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 import ReactMarkdown from "react-markdown";
 import UserContext from "../context/UserContext";
 import Navbar from "./Navbar";
